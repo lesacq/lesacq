@@ -15,6 +15,8 @@ A passionate frontend developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lesacq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![snake gif](https://github.com/lesacq/lesacq/blob/output/github-snake-dark.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -25,3 +27,4 @@ A passionate frontend developer
 [![](https://visitcount.itsvg.in/api?id=lesacq&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
